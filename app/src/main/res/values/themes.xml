@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.CharaProseka" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+
+        <!-- Background and Surface Colors -->
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/secondaryTextColor</item>
+
+        <!-- Other UI Elements (without windowLightStatusBar) -->
+    </style>
+</resources>

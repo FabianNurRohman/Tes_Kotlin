@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Chara Proseka</string>
+    <string name="myname">Fabian Nur Rohman</string>
+    <string name="email">2210631170118@student.unsika.ac.id</string>
+    <string name="chara_name">Nama Karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>Hatsune Miku</item>
+        <item>Kagamine Rin</item>
+        <item>Kagamine Len</item>
+        <item>Megurine Luka</item>
+        <item>MEIKO</item>
+        <item>KAITO</item>
+        <item>Yoisaki Kanade</item>
+        <item>Asahina Mafuyu</item>
+        <item>Shinonome Ena</item>
+        <item>Akiyama Mizuki</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Miku is a female VIRTUAL SINGER known for her blue-green twin-tail hairstyle. She can sing in a wide variety of genres with her cheerful and cute voice. Among VIRTUAL SINGERS, her name is known throughout the world and through many generations. Miku is a female VIRTUAL SINGER known for her blue-green twin-tail hairstyle. She can sing in a wide variety of genres with her cheerful and cute voice. Among VIRTUAL SINGERS, her name is known throughout the world and through many generations.</item>
+        <item>Rin is a VIRTUAL SINGER known for performing with her counterpart Kagamine Len. Her and the other VIRTUAL SINGERS live in another world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music. Rin is a VIRTUAL SINGER known for performing with her counterpart Kagamine Len. Her and the other VIRTUAL SINGERS live in another world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music.</item>
+        <item>Len is a VIRTUAL SINGER best known for performing with his counterpart Kagamine Rin. He and the other VIRTUAL SINGERS live in another world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music. Len is a VIRTUAL SINGER best known for performing with his counterpart Kagamine Rin. He and the other VIRTUAL SINGERS live in another world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music.</item>
+        <item>Luka and the other VIRTUAL SINGERS live in another world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music. Luka and the other VIRTUAL SINGERS live in another world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music.</item>
+        <item>MEIKO and the other VIRTUAL SINGERS live in a world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music. MEIKO and the other VIRTUAL SINGERS live in a world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music.</item>
+        <item>KAITO and the other VIRTUAL SINGERS live in a world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music. KAITO and the other VIRTUAL SINGERS live in a world called SEKAI, but appear in the real world to consult people who have trouble understanding their true feelings through music.</item>
+        <item>Yoisaki Kanade is a third-year student taking online classes. She is the leader and composer of the underground music circle 25-ji, Nightcord de., going by the alias K. When Kanade was young, her mother fell ill and passed away. Her father was a musician who made a living off of commissions. Kanade\'s father recognized her talent and said that she was "blessed by music", often praising her for her musical creations. As her father was struggling to compose a song for a contest, Kanade offered to write a section, causing it to win the competition.</item>
+        <item>Asahina Mafuyu is a third-year student at Miyamasuzaka Girls Academy. She is the lyricist of the underground music circle 25-ji, Nightcord de. going by the alias "Yuki". Mafuyu is an honor student and the only one in her circle who regularly attends school during the day. She earns good grades and is the representative of her class. She is said to excel in both academics and sports.</item>
+        <item>Shinonome Ena is a third-year student at Kamiyama High School who attends night classes. She is the illustrator for the underground music circle 25-ji, Nightcord de., going by the alias "Enanan. Ena's father is a famous artist and her inspiration for drawing. However, he believes that the path of a professional artist is full of pain and suffering, and that Ena is incapable of handling that pain. One day when Ena was in middle school, she expressed her desire to enroll at an art school, but her father told her to give up because she lacked any talent."</item>
+        <item>Akiyama Mizuki is a second year student at Kamiyama High School. They are the animator of the underground music circle 25-ji, Nightcord de., going by the alias "Amia. Mizuki is an animator and video maker who uploads music videos online. They were captivated by Kanade's music upon listening to it, and made a music video for the song. Kanade invited Mizuki to 25-ji, Nightcord de. after seeing this video."</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/projectsekai/images/d/d0/Miku_3rd_Anniversary.png/revision/latest?cb=20230930093248</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/1/11/Rin_3rd_Anniversary.png/revision/latest?cb=20230930093713</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/e/e7/Len_3rd_Anniversary.png/revision/latest?cb=20230930093825</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/2/20/Luka_3rd_Anniversary.png/revision/latest?cb=20240316190650</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/7/7a/MEIKO_3rd_Anniversary.png/revision/latest?cb=20230930094009</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/2/21/KAITO_3rd_Anniversary.png/revision/latest?cb=20230930094048</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/7/71/Kanade_3rd_Anniversary.png/revision/latest?cb=20231109000824</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/0/00/Mafuyu_3rd_Anniversary.png/revision/latest?cb=20231109000951</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/c/c6/Ena_3rd_Anniversary.png/revision/latest?cb=20231109001052</item>
+        <item>https://static.wikia.nocookie.net/projectsekai/images/1/12/Mizuki_3rd_Anniversary.png/revision/latest?cb=20231109001205</item>
+    </string-array>
+</resources>

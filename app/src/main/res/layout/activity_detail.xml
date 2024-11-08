@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:padding="0dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/backgroundView"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="@color/primaryColor" />
+
+        <ImageView
+            android:id="@+id/imageViewDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="350dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/backgroundView"
+            android:layout_marginTop="-223dp"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/textViewName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/imageViewDetail"
+            android:textSize="28sp"
+            android:textColor="@color/secondaryTextColor"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/deskripsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/description"
+            android:layout_below="@id/textViewName"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
+
+
+        <TextView
+            android:id="@+id/textViewDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/deskripsi"
+            android:textSize="16sp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="18dp"/>
+    </RelativeLayout>
+
+</ScrollView>
